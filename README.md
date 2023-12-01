@@ -1,5 +1,12 @@
 # My-First-Repository 
-This is from 2nd Class.
-There are activities that follow such as cloning this repo and creating branches. 
+Class are held 3x/week:
+* Mondays
+* Wednesdays
+* Thursdays
 
-This activity involves me making changes to a document that is cloned on my MBP, staging and committing changes and seeing a history of those changes in GitHub. 
+**The Bootcamp is through Cloumbia Engineering**
+
+**To Do list**
+- [x] Continue to practice GitHub commands
+- [ ] Complete First Assigment
+- [ ] Connect with Study Group
